@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Object_detection_background_image.jpg</file>
+  </qresource>
+</RCC>
